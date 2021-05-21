@@ -1,9 +1,5 @@
 clear all
 clc
-%Exercise 2
-% Gali Winterberger      - id 315679571
-% Yair Lahad             - id 205493018
-%-----------------------------------------%
 %setting variables
 load SpikesX10U12D.mat
 units=10;                          % number of neurons
